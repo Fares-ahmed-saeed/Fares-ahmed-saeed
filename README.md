@@ -1,7 +1,7 @@
-<img src="main.fares.jpg" alt="GitHub Banner" style= "border-radius:70%" width="30%" />
+<img src="main.fares.jpg" alt="GitHub Banner" style= "border-radius: 150px" width="30%" />
 
 # Hello World!, I'm Fares, a Egypt Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.linkedin.com/in/fares-ahmed-31aa70356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+🛜 currently working on my own [webpage](https://www.linkedin.com/in/fares-ahmed-31aa70356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 Focused on mastering modern web technologies and best practices</i>
 
 
 # 💻 Tech Stack:
